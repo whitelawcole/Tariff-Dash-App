@@ -73,8 +73,7 @@ layout = dbc.Container([
                                 
                                 html.H5("Team", className="mb-1 mt-2"),
                                 html.P(
-                                    "Developed as part of USC's DSCI 554 course on Visual Analytics by graduate students "
-                                    "specializing in data science and visualization.",
+                                    "Developed as part of USC's DSCI 554 course on Visual Analytics",
                                     className="mb-0"
                                 ),
                             ]),
