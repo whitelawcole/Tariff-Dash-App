@@ -4,6 +4,10 @@
 
 An interactive Dash application for visualizing global tariff data over time, focusing on tariffs imposed by or on the United States.
 
+The deployed website is located here: https://tariff-project.onrender.com/
+
+Please give the page a minute or two to load
+
 ## Features
 
 - Interactive arc map visualization showing tariff relationships between the US and other countries
